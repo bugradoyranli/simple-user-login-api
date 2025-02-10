@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "RbtAm//mfSgphSmq0DiONei0iGp7Dmh6nZyUM4gHWyg=",
+  "Source": "api",
+  "BasePath": "_content/api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "api\\wwwroot",
+      "Source": "api",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\32sxshgheq-x361hjh1xb.gz",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/api",
+      "RelativePath": "login#[.{fingerprint=x361hjh1xb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mubmu0f1p5",
+      "Integrity": "ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\nm32aljd9z-jalq1xuetm.gz",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/api",
+      "RelativePath": "home#[.{fingerprint=jalq1xuetm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ykfzcgi2rw",
+      "Integrity": "XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\home.html"
+    },
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\udyf1q8st0-fs60mhr2oi.gz",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/api",
+      "RelativePath": "register#[.{fingerprint=fs60mhr2oi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\register.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2az5qjv42s",
+      "Integrity": "JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\register.html"
+    },
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\home.html",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "RelativePath": "home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jalq1xuetm",
+      "Integrity": "SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    },
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\login.html",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x361hjh1xb",
+      "Integrity": "LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\register.html",
+      "SourceId": "api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\",
+      "BasePath": "_content/api",
+      "RelativePath": "register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fs60mhr2oi",
+      "Integrity": "ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "home.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\nm32aljd9z-jalq1xuetm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000911577028"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1096"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok="
+        }
+      ]
+    },
+    {
+      "Route": "home.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\nm32aljd9z-jalq1xuetm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0="
+        }
+      ]
+    },
+    {
+      "Route": "home.jalq1xuetm.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\nm32aljd9z-jalq1xuetm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000911577028"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1096"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jalq1xuetm"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok="
+        }
+      ]
+    },
+    {
+      "Route": "home.jalq1xuetm.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jalq1xuetm"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SxN87CzkaS5F48GZ6Vg/uwB9qkw4Wj6ekARHxUqI/Ok="
+        }
+      ]
+    },
+    {
+      "Route": "home.jalq1xuetm.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\nm32aljd9z-jalq1xuetm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jalq1xuetm"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlpyZowzZbSjmqKCHUTs3PT9mCdlPwH2BOdcKZssYK0="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\32sxshgheq-x361hjh1xb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001006036217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\32sxshgheq-x361hjh1xb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM="
+        }
+      ]
+    },
+    {
+      "Route": "login.x361hjh1xb.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\32sxshgheq-x361hjh1xb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001006036217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x361hjh1xb"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw="
+        }
+      ]
+    },
+    {
+      "Route": "login.x361hjh1xb.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x361hjh1xb"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQKK1o0wtdc2svkEMW8LqO/ZCiFi138YvDBL35yl1tw="
+        }
+      ]
+    },
+    {
+      "Route": "login.x361hjh1xb.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\32sxshgheq-x361hjh1xb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:06:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x361hjh1xb"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggxiNufW8rqQW+FmqjL1I/edZHwd/BOxjw/S3hw4TtM="
+        }
+      ]
+    },
+    {
+      "Route": "register.fs60mhr2oi.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\udyf1q8st0-fs60mhr2oi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000772797527"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fs60mhr2oi"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo="
+        }
+      ]
+    },
+    {
+      "Route": "register.fs60mhr2oi.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fs60mhr2oi"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo="
+        }
+      ]
+    },
+    {
+      "Route": "register.fs60mhr2oi.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\udyf1q8st0-fs60mhr2oi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fs60mhr2oi"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\udyf1q8st0-fs60mhr2oi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000772797527"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ofMTxLW6nciJU9cHW/tzXveN8kfV0TYSqpQTeJMqxYo="
+        }
+      ]
+    },
+    {
+      "Route": "register.html.gz",
+      "AssetFile": "C:\\Users\\CASPER\\Desktop\\sonağ\\api\\obj\\Debug\\net9.0\\compressed\\udyf1q8st0-fs60mhr2oi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 20:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JkjZjjMo6ffnFTELhjOMzegR9Xjf9BN/05ZkNq7GxxE="
+        }
+      ]
+    }
+  ]
+}

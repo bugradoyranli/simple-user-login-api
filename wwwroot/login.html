@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow" style="width: 350px;">
+        <h3 class="text-center">Admin Girişi</h3>
+        <form id="loginForm">
+            <div class="mb-3">
+                <label for="username" class="form-label">Kullanıcı Adı</label>
+                <input type="text" class="form-control" id="username" placeholder="Kullanıcı adınızı girin" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Şifre</label>
+                <input type="password" class="form-control" id="password" placeholder="Şifrenizi girin" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Giriş yap</button>
+        </form>
+        <div id="loginMessage" class="text-center mt-3 text-danger"></div>
+        <div class="text-center mt-3">
+            <a href="http://localhost:5003/register.html" class="btn btn-secondary w-100">Admin ekle</a>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", function(event) {
+            event.preventDefault(); 
+
+            let username = document.getElementById("username").value;
+            let password = document.getElementById("password").value;
+
+            fetch("http://localhost:5003/api/User/login", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ username: username, password: password })
+            })
+            .then(response => response.text()) 
+            .then(data => {
+                if (data === "Giriş başarılı.") {
+                    alert("Başarıyla giriş yaptınız!");
+                    window.location.href = "/home.html"; 
+                } else {
+                    document.getElementById("loginMessage").innerText = data;
+                }
+            })
+            .catch(error => console.error("Hata:", error));
+        });
+    </script>
+</body>
+</html>
